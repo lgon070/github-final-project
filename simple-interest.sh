@@ -6,7 +6,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Additional Authors:
-# lgon070
+# LGON070
 
 # Input:
 # p, principal amount
